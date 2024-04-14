@@ -27,4 +27,4 @@ To utilize this backend for your private messaging application:
 
 # Tech Stack:
 
-![Python](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
