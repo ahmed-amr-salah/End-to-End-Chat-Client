@@ -12,7 +12,7 @@ This project entails the development of a secure private messaging application's
 
 4. **Error Handling**: The system is designed to handle various error scenarios, including incorrect certificate issuance and malformed messages, ensuring the integrity and security of the communication process.
 
-#Testing:
+# Testing:
 
 The code includes comprehensive testing scenarios to validate the correct implementation of encryption, decryption, and certificate verification functionalities. This ensures the reliability and robustness of the messaging application under different conditions.
 
